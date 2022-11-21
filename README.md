@@ -1,6 +1,6 @@
 Batuhan A. Yılmazer
 
-# About batuhanyilmazer/participations
+# About batuhanyilmazer/cv
 Participations, competencies and certificates for job applications, CV's etc.
 
 # Seminars 
