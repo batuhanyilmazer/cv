@@ -16,4 +16,5 @@ Participations, competencies and certificates for job applications, CV's etc.
 
 # Contact & Links
 [LinkedIn](https://www.linkedin.com/in/batuhan-y%C4%B1lmazer-236a13244/ "Click to see my LinkedIn Account!")
+
 [Email](mailto:batu@duck.com)
