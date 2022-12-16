@@ -10,19 +10,27 @@ Participations, competencies and certificates for job applications, CV's etc.
 
 # Projects
   - AutoDTB.com -> Further information can be gathered at [AutoDTB Website](https://www.autodtb.com/ "Click to see AutoDTB Website!")
+  
+  ### Projects: Freelance
+  - Karareisdalismerkezi.com.tr -> Basic Fully Responsive Frontend-only Website. Designed, coded and deployed in only 2 hours!
 
 # Seminars 
-### Format = seminar : prganizator : date : certification file/if available/ 
-  - Blockchain 101           : ITU Blockchain Club           : 18 Oct 2022            : No certification
-  - Blockchain 103           : ITU Blockchain Club           : 1 Nov 2022             : No certification
-  - ITU Girisimcilik Zirvesi : Istanbul Technical University : 12 Dec 2022            : 12dec22-girismcilikZirvesi.jpg 
+### Format = seminar : organizator : date : certification file/if available/ 
+  - MES Arduino101           : MES                           : ?                      : Certificate given
+  - Blockchain 101           : ITU Blockchain Club           : 18 Oct 2022            : No certificate given
+  - Blockchain 103           : ITU Blockchain Club           : 1 Nov 2022             : No certificate given
+  - ITU Girisimcilik Zirvesi : Istanbul Technical University : 12 Dec 2022            : Certificate given : 12dec22-girismcilikZirvesi.jpg 
 
 # Certifications
+  - freecodecamp.org : Frontend Developer Certification (in progress) : - : freecodecamp-frontend.png
+  - freecodecamp.org : 
 
 # Participations
   - FRC Ankara Off-Season : Flare Robotics (formerly, FMV Erenkoy Isik Robotic Club) : 2019
 
 # Contact & Links
-[LinkedIn](https://www.linkedin.com/in/batuhan-y%C4%B1lmazer-236a13244/ "Click to see my LinkedIn Account!")
+Linkedin Account:
+[Batuhan Yılmazer](https://www.linkedin.com/in/batuhan-y%C4%B1lmazer-236a13244/ "Click to see my LinkedIn Account!")
 
-[Email](mailto:batu@duck.com)
+Email:
+[batu@duck.com](mailto:batu@duck.com)
