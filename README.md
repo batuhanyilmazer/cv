@@ -34,3 +34,8 @@ Linkedin Account:
 
 Email:
 [batu@duck.com](mailto:batu@duck.com)
+
+
+---
+###TODO: 
+Change seminar to table format
