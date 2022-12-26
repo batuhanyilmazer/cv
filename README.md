@@ -15,12 +15,14 @@ Participations, competencies and certificates for job applications, CV's etc.
   - Karareisdalismerkezi.com.tr -> Basic Fully Responsive Frontend-only Website. Designed, coded and deployed in only 2 hours!
 
 # Seminars 
-### Format = seminar : organizator : date : certification file/if available/ 
-  - MES Arduino101           : MES                           : ?                      : Certificate given       : Missing
-  - Blockchain 101           : ITU Blockchain Club           : 18 Oct 2022            : No certificate given
-  - Blockchain 103           : ITU Blockchain Club           : 1 Nov 2022             : No certificate given
-  - ITU Girisimcilik Zirvesi : Istanbul Technical University : 12 Dec 2022            : Certificate given       : 12dec22-girismcilikZirvesi.jpg 
-  - ITU ACM RoadMap          : ITU ACM Club                  : 24 Dec 2022            : No Certificate given
+| Name                             | Organizator             | Date        | Certification                   |
+|----------------------------------|-------------------------|-------------|---------------------------------|
+| Blockchain 101                   | ITU Blockchain Club     | 18 Oct 2022 | No Certification                |
+| Blockchain 102                   | ITU Blockchain Club     | 25 Oct 2022 | No Certification                |
+| Blockchain 103                   | ITU Blockchain Club     | 1 Nov 2022  | No Certification                |
+| ITU Girisimcilik Zirvesi         | ITU Girisimcilik Kulubu | 12 Dec 2022 | 12dec22-girisimcilikZirvesi.png |
+| ITU ACM Roadmap                  | ITU ACM Club            | 24 Dec 2022 | No Certification                |
+| Frontend Developer Certification | freecodecamp.org        | In Progress |                                 |
 
 # Certifications
   - freecodecamp.org : Frontend Developer Certification (in progress) : - : freecodecamp-frontend.png
