@@ -9,12 +9,12 @@ Participations, competencies and certificates for job applications, CV's etc.
   - Intermediate C, C++
 
 # Projects
-  - AutoDTB.com -> Further information can be gathered at [AutoDTB Website](https://www.autodtb.com/ "Click to see AutoDTB Website!")
+  - AutoDTB.com, as Founder -> Further information can be gathered at [AutoDTB Website](https://www.autodtb.com/ "Click to see AutoDTB Website!")
   
   ### Projects: Freelance
   - Karareisdalismerkezi.com.tr -> Basic Fully Responsive Frontend-only Website. Designed, coded and deployed in only 2 hours!
 
-# Seminars 
+# Seminars & Certifications
 | Name                             | Organizator             | Date        | Certification                   |
 |----------------------------------|-------------------------|-------------|---------------------------------|
 | Blockchain 101                   | ITU Blockchain Club     | 18 Oct 2022 | No Certification                |
@@ -23,10 +23,6 @@ Participations, competencies and certificates for job applications, CV's etc.
 | ITU Girisimcilik Zirvesi         | ITU Girisimcilik Kulubu | 12 Dec 2022 | 12dec22-girisimcilikZirvesi.png |
 | ITU ACM Roadmap                  | ITU ACM Club            | 24 Dec 2022 | No Certification                |
 | Frontend Developer Certification | freecodecamp.org        | In Progress |                                 |
-
-# Certifications
-  - freecodecamp.org : Frontend Developer Certification (in progress) : - : freecodecamp-frontend.png
-  - freecodecamp.org : 
 
 # Participations
   - FRC Ankara Off-Season : Flare Robotics (formerly, FMV Erenkoy Isik Robotic Club) : 2019
