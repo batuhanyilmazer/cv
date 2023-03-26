@@ -2,11 +2,11 @@
 Participations, competencies and certificates for job applications, CV's etc.
 
 # Competencies
-  - Java & General Frameworks
+  - Java & Some Frameworks
   - Web, Responsive Frontend
-  - Basic Electronics & Circuits
+  - Intermediate Electronics & Circuits
   - Robotics, Autonomous Drive
-  - Intermediate C, C++
+  - Robotics: C, C++
 
 # Projects
   - AutoDTB.com, as Founder -> Further information can be gathered at [AutoDTB Website](https://www.autodtb.com/ "Click to see AutoDTB Website!")
