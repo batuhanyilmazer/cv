@@ -23,6 +23,7 @@ Participations, competencies and certificates for job applications, CV's etc.
 | ITU Girisimcilik Zirvesi         | ITU Girisimcilik Kulubu | 12 Dec 2022 | 12dec22-girisimcilikZirvesi.png |
 | ITU ACM Roadmap                  | ITU ACM Club            | 24 Dec 2022 | No Certification                |
 | Frontend Developer Certification | freecodecamp.org        | In Progress |                                 |
+| ITU Girisimcilik Case Study Seminar | ITU Girisimcilik Club        | 23 Mar 2023 |  No Certification |
 
 # Participations
   - FRC Ankara Off-Season : Flare Robotics (formerly, FMV Erenkoy Isik Robotic Club) : 2019
