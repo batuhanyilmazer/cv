@@ -2,8 +2,10 @@
 Participations, competencies and certificates for job applications, CV's etc.
 
 # Competencies
-  - Java & Some Frameworks
-  - Web, Responsive Frontend
+  - Java (Flutter [in Progress])
+  - HTML, CSS (Bootstrap, SASS [in Progress])
+  - Javascript, React [in Progress], jQuery [in Progress], Astro [in Progress]
+  - Git, GitHub (GitHub Workflows, GitHub Actions)
   - Intermediate Electronics & Circuits
   - Robotics, Autonomous Drive
   - Robotics: C, C++
