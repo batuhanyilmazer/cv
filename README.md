@@ -33,6 +33,7 @@ Participations, competencies and certificates for job applications, CV's etc.
 | ITU Girisimcilik Case Study Seminar             | ITU Girisimcilik Club   | 23 Mar 2023 | No Certification                |
 | Frontend Developer Certification                | freecodecamp.org        | In Progress |                                 |
 | Javascript Certification                        | freecodecamp.org        | In Progress |                                 |
+| Electric Cars Seminar                           | ITU                     | 18 Dec 2023 | No Certification                |
 
 # Participations in Clubs & Formations
 | Name                                      | Position                | Dates       |
